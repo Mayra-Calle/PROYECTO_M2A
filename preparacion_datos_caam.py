@@ -164,7 +164,10 @@ st.dataframe(df_filtrado)
 
 # Transformación 4: Agrupar datos (groupby por Estado Cognitivo recién creado)
 st.subheader("Agrupación (`groupby`): Promedio de edad y puntajes por Estado Cognitivo")
-df_agrupado = df_transformado.groupby("estado_cognitivo")[["edad", "mmse", "ace_r_total"]].mean().reset_index()
+df_para_agrupar = df_transformado.copy()
+for col_num in ["edad", "mmse", "ace_r_total"]:
+    df_para_agrupar[col_num] = pd.to_numeric(df_para_agrupar[col_num], errors='coerce')
+df_agrupado = df_para_agrupar.groupby("estado_cognitivo")[["edad", "mmse", "ace_r_total"]].mean().reset_index()
 st.dataframe(df_agrupado)
 
 # ==============================================================================
