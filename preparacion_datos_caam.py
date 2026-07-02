@@ -137,14 +137,18 @@ df_transformado = df_limpio.copy()
 
 # Transformación 1: Crear nuevas columnas (Clasificación del MMSE de acuerdo al puntaje)
 def clasificar_mmse(score):
-    if score >= 24: return "Normal"
-    elif score >= 20: return "Deterioro Cognitivo Leve"
-    else: return "Deterioro Cognitivo Moderado/Severo"
-
-df_transformado["estado_cognitivo"] = df_transformado["mmse"].apply(clasificar_mmse)
+    if pd.isna(score) or score is None:
+        return "Sin Datos"
+    score = float(score)
+    if score >= 24: 
+        return "Normal"
+    elif score >= 20: 
+        return "Deterioro Cognitivo Leve"
+    else: 
+        return "Deterioro Cognitivo Moderado/Severo"
 
 # Transformación 2: Ordenar registros (sort_values por Edad de forma descendente)
-df_transformado = df_transformado.sort_values(by="edad", ascending=False)
+df_transformado["estado_cognitivo"] = df_transformado["mmse"].apply(clasificar_mmse)
 
 # Transformación 3: Filtrar información (Filtro interactivo en Streamlit)
 st.subheader("Filtrar registros por Género")
