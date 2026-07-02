@@ -129,7 +129,7 @@ with st.expander("Ver Dataset Limpio"):
     st.dataframe(df_limpio)
 
 # ==============================================================================
-# 4. TRANSFORMACIÓN DE DATOS (2 puntos) - Al menos 3 transformaciones
+# 4. TRANSFORMACIÓN DE DATOS
 # ==============================================================================
 st.header("4. Transformación de datos")
 
@@ -171,7 +171,7 @@ df_agrupado = df_para_agrupar.groupby("estado_cognitivo")[["edad", "mmse", "ace_
 st.dataframe(df_agrupado)
 
 # ==============================================================================
-# 5. VISUALIZACIÓN (2 puntos) - Al menos 4 gráficos diferentes
+# 5. VISUALIZACIÓN
 # ==============================================================================
 st.header("5. Visualización de datos")
 
@@ -212,7 +212,7 @@ with col_g4:
     st.pyplot(fig_pie)
 
 # ==============================================================================
-# 6. EXPORTACIÓN DE DATOS (0.5 puntos) & 7. INTERFAZ (1 punto)
+# 6. EXPORTACIÓN DE DATOS
 # ==============================================================================
 st.header("6. Exportación de datos")
 
