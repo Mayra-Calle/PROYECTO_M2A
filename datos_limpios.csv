@@ -1,66 +1,65 @@
-nombre,edad,genero,estado_civil,lateralidad,anios_estudio,deficit_sensorial,mmse,ace_r_total,wais_total,estado_cognitivo
-Galarza Zamora María Teresa,89.5,Femenino,Viudo/a,Diestro,Primario(8 años),Auditivo,0.0,74.0,29.0,Deterioro Cognitivo Moderado/Severo
-Jaramillo Correa Rosario,89.5,Femenino,Viudo/a,Diestro,Medios(9-12 años),Visual,0.0,86.0,23.0,Deterioro Cognitivo Moderado/Severo
-Arteaga Álvarez Ligia Jesús,85.0,Femenino,Casado/a,Diestro,Básicos (6 años),Auditivo,5.0,69.0,21.0,Deterioro Cognitivo Moderado/Severo
-Esquivel Guerrero Sergio Alberto,81.0,Masculino,Viudo/a,Diestro,Superiores(+12 años),Auditivo,0.0,82.0,37.0,Deterioro Cognitivo Moderado/Severo
-Matute Peña Luz Maria,80.0,Femenino,Viudo/a,Diestro,Básicos (6 años),Auditivo,0.0,83.0,23.0,Deterioro Cognitivo Moderado/Severo
-Capelo Cabrera Olivia Sara,79.0,Femenino,Viudo/a,Diestro,Básicos (6 años),Visual,0.0,62.0,40.0,Deterioro Cognitivo Moderado/Severo
-Pintado Tenecela Rosa Sarbelia,78.0,Femenino,Soltero/a,Diestro,Medios(9-12 años),Ninguno,2.0,85.0,43.0,Deterioro Cognitivo Moderado/Severo
-Campoverde Flores María Esperanza,78.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Ninguno,0.0,91.0,34.0,Deterioro Cognitivo Moderado/Severo
-Guzman Bravo Efrain Gustavo,77.0,Masculino,Casado/a,Diestro,Básicos (6 años),Visual,0.0,80.0,23.0,Deterioro Cognitivo Moderado/Severo
-Marin Muñoz Elsa Rosario,77.0,Femenino,Viudo/a,Diestro,Medios(9-12 años),Auditivo,0.0,86.0,45.0,Deterioro Cognitivo Moderado/Severo
-Nieto Vidal Gladys Beatriz,77.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Visual,0.0,97.0,42.0,Deterioro Cognitivo Moderado/Severo
-Cobos Briones Nancy Elionor,77.0,Femenino,Viudo/a,Diestro,Medios(9-12 años),Ninguno,0.0,90.0,33.0,Deterioro Cognitivo Moderado/Severo
-Peña Girón Manuel Velásquez,77.0,Masculino,Casado/a,Diestro,Superiores(+12 años),Auditivo,0.0,84.0,45.0,Deterioro Cognitivo Moderado/Severo
-Cajas Cajas Blanca Leonor,77.0,Femenino,Viudo/a,Diestro,Básicos (6 años),Visual,0.0,77.0,29.0,Deterioro Cognitivo Moderado/Severo
-Rodas Efren Olegario,76.0,Masculino,Casado/a,Diestro,Medios(9-12 años),Visual,0.0,88.0,43.0,Deterioro Cognitivo Moderado/Severo
-Espinoza Mariana de Jesus,76.0,Femenino,Viudo/a,Diestro,Básicos (6 años),Visual,0.0,60.0,23.0,Deterioro Cognitivo Moderado/Severo
-Cajilima Cabrera Segundo Juan,76.0,Masculino,Casado/a,Diestro,Básicos (6 años),Auditivo,0.0,73.0,37.0,Deterioro Cognitivo Moderado/Severo
-Pacheco Pacheco Maria Leonila,75.0,Femenino,Divorciado/a,Diestro,Superiores(+12 años),Ninguno,0.0,87.0,55.0,Deterioro Cognitivo Moderado/Severo
-Ochoa Carrion Elva Olivia,75.0,Femenino,Divorciado/a,Diestro,Primario(8 años),Visual,4.0,69.0,38.0,Deterioro Cognitivo Moderado/Severo
-Lucero Muñoz Carmen Alicia,75.0,Femenino,Divorciado/a,Diestro,Medios(9-12 años),Visual,0.0,96.0,58.0,Deterioro Cognitivo Moderado/Severo
-Larrea Hidalgo Martha Aidee,75.0,Femenino,Viudo/a,Diestro,Superiores(+12 años),Auditivo,7.0,90.0,43.0,Deterioro Cognitivo Moderado/Severo
-Pauta Astudillo Ana Rebeca,75.0,Femenino,Viudo/a,Diestro,Medios(9-12 años),Visual,0.0,92.0,37.0,Deterioro Cognitivo Moderado/Severo
-Quzhpi Arcentales María Alejandrina,75.0,Femenino,Viudo/a,Diestro,Primario(8 años),Auditivo,0.0,89.0,34.0,Deterioro Cognitivo Moderado/Severo
-Alvarado Guichay Maura Inés,74.0,Femenino,Soltero/a,Diestro,Primario(8 años),Visual,0.0,89.0,33.0,Deterioro Cognitivo Moderado/Severo
-Maldonado Tacuri Eulalia ,74.0,Femenino,Viudo/a,Diestro,Medios(9-12 años),Visual,0.0,75.0,40.0,Deterioro Cognitivo Moderado/Severo
-Daquilema María Miranda ,74.0,Femenino,Divorciado/a,Diestro,Superiores(+12 años),Visual,0.0,88.0,55.0,Deterioro Cognitivo Moderado/Severo
-Calderón Calle Hilda Violeta,74.0,Femenino,Viudo/a,Diestro,Superiores(+12 años),Ninguno,0.0,88.0,45.0,Deterioro Cognitivo Moderado/Severo
-Narváez Peralta Olga Cleofre,73.0,Femenino,Divorciado/a,Diestro,Primario(8 años),Visual,0.0,91.0,38.0,Deterioro Cognitivo Moderado/Severo
-Paucar Arias Ilda Susana,73.0,Femenino,Casado/a,Diestro,Superiores(+12 años),Ninguno,0.0,76.0,57.0,Deterioro Cognitivo Moderado/Severo
-Jara Rosa Senovia,72.0,Femenino,Viudo/a,Diestro,Primario(8 años),Visual,0.0,82.0,35.0,Deterioro Cognitivo Moderado/Severo
-Calle Lazo Luis Gonzalo,72.0,Masculino,Divorciado/a,Diestro,Básicos (6 años),Visual,0.0,90.0,50.0,Deterioro Cognitivo Moderado/Severo
-Bonilla Lara Rosa Carmen,72.0,Femenino,Divorciado/a,Diestro,Básicos (6 años),Visual,0.0,85.0,32.0,Deterioro Cognitivo Moderado/Severo
-Astudillo Celleri César Wilfrido,72.0,Masculino,Divorciado/a,Zurdo,Superiores(+12 años),Visual,0.0,94.0,42.0,Deterioro Cognitivo Moderado/Severo
-Parra Calle Julio Cesar,72.0,No especificado,,,,,0.0,0.0,0.0,Deterioro Cognitivo Moderado/Severo
-,72.0,No especificado,,,,,0.0,87.0,,Deterioro Cognitivo Moderado/Severo
-Matute Peña Blanca Rosa,72.0,Femenino,Soltero/a,Diestro,Primario(8 años),Ninguno,0.0,72.0,22.0,Deterioro Cognitivo Moderado/Severo
-Marín Zari Laura Beatriz,72.0,Femenino,Divorciado/a,Diestro,Medios(9-12 años),Auditivo,0.0,82.0,36.0,Deterioro Cognitivo Moderado/Severo
-Flora Maria Barahona Ponce,71.0,Femenino,Casado/a,Diestro,Básicos (6 años),Visual,0.0,92.0,44.0,Deterioro Cognitivo Moderado/Severo
-Armijos Alarcón Libia Teresa,71.0,Femenino,Viudo/a,Diestro,Básicos (6 años),Visual,0.0,81.0,35.0,Deterioro Cognitivo Moderado/Severo
-Pilataxi Muños Luis Gerardo,71.0,Masculino,Divorciado/a,Diestro,Superiores(+12 años),Visual,0.0,91.0,26.0,Deterioro Cognitivo Moderado/Severo
-Bravo Palacios Luis Enrique,70.0,Masculino,Casado/a,Diestro,Medios(9-12 años),Visual,0.0,88.0,28.0,Deterioro Cognitivo Moderado/Severo
-Amoroso Nelly de la Nube,70.0,Femenino,Divorciado/a,Diestro,Medios(9-12 años),Ninguno,0.0,87.0,34.0,Deterioro Cognitivo Moderado/Severo
-Quezada Patiño Lisenia Maria,69.0,Femenino,Soltero/a,Diestro,Medios(9-12 años),Auditivo,5.0,86.0,34.0,Deterioro Cognitivo Moderado/Severo
-Sinchi Lilia Victoria,69.0,Femenino,Viudo/a,Diestro,Primario(8 años),Visual,0.0,74.0,48.0,Deterioro Cognitivo Moderado/Severo
-Carrera Barros Laura ,68.0,Femenino,Soltero/a,Diestro,Superiores(+12 años),Ninguno,0.0,96.0,60.0,Deterioro Cognitivo Moderado/Severo
-Amón Martínez Julia Noemi,68.0,Femenino,Divorciado/a,Diestro,Superiores(+12 años),Ninguno,0.0,88.0,33.0,Deterioro Cognitivo Moderado/Severo
-Chungata Saco Rosa Olimpia,68.0,Femenino,Viudo/a,Diestro,Primario(8 años),Visual,5.0,86.0,30.0,Deterioro Cognitivo Moderado/Severo
-Quinteros Vintimilla Cruz de Jesús ,67.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Auditivo,0.0,88.0,29.0,Deterioro Cognitivo Moderado/Severo
-Toro Rios María Piedad,67.0,Femenino,Casado/a,Diestro,Superiores(+12 años),Visual,0.0,89.0,36.0,Deterioro Cognitivo Moderado/Severo
-Morocho Velez María Patricia,66.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Ninguno,0.0,90.0,44.0,Deterioro Cognitivo Moderado/Severo
-Pesantes Fabiani Paquita Gulnara de los Dolores ,66.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Visual,0.0,92.0,40.0,Deterioro Cognitivo Moderado/Severo
-Hinostroza Blanca Alejandrina,66.0,Femenino,Divorciado/a,Diestro,Medios(9-12 años),Visual,5.0,87.0,29.0,Deterioro Cognitivo Moderado/Severo
-León Heras Mario Rodrigo,66.0,Masculino,Casado/a,Diestro,Medios(9-12 años),Visual,0.0,84.0,41.0,Deterioro Cognitivo Moderado/Severo
-Guachichullca Guachichullca María Celia,66.0,Femenino,Casado/a,Diestro,Básicos (6 años),Visual,0.0,77.0,40.0,Deterioro Cognitivo Moderado/Severo
-Campoverde Sanmartin Lucia Celeste,66.0,Femenino,Viudo/a,Diestro,Superiores(+12 años),Visual,0.0,94.0,39.0,Deterioro Cognitivo Moderado/Severo
-Molina Coba Norma Marina,66.0,Femenino,Casado/a,Diestro,Superiores(+12 años),Visual,0.0,90.0,55.0,Deterioro Cognitivo Moderado/Severo
-Velez Bermeo Alicia Etelvina,65.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Visual,2.0,78.0,39.0,Deterioro Cognitivo Moderado/Severo
-Matute Sarmiento Victor Oswaldo,65.0,Masculino,Soltero/a,Diestro,Básicos (6 años),Visual,0.0,86.0,54.0,Deterioro Cognitivo Moderado/Severo
-Naula Arévalo Rosa Elena,64.0,Femenino,Divorciado/a,Diestro,Superiores(+12 años),Visual,0.0,89.0,33.0,Deterioro Cognitivo Moderado/Severo
-Cordero Cordero Eva Lucia,63.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Auditivo,0.0,90.0,43.0,Deterioro Cognitivo Moderado/Severo
-Merchan Maldonado Yolanda Patricia,63.0,Femenino,Divorciado/a,Diestro,Medios(9-12 años),Visual,0.0,94.0,55.0,Deterioro Cognitivo Moderado/Severo
-Molina Andrade Rosa,63.0,Femenino,Divorciado/a,Diestro,Primario(8 años),Visual,0.0,86.0,50.0,Deterioro Cognitivo Moderado/Severo
-Rosero Pesantez Guadalupe del Pilar,63.0,Femenino,Viudo/a,Diestro,Medios(9-12 años),Visual,0.0,94.0,47.0,Deterioro Cognitivo Moderado/Severo
-Calle Cardenas Milton Diego,62.0,Masculino,Divorciado/a,Diestro,Superiores(+12 años),Ninguno,0.0,96.0,32.0,Deterioro Cognitivo Moderado/Severo
-Buele Jara Olga Cecilia ,61.0,Femenino,Divorciado/a,Diestro,Medios(9-12 años),Ninguno,0.0,93.0,39.0,Deterioro Cognitivo Moderado/Severo
+nombre,edad,genero,estado_civil,lateralidad,anios_estudio,deficit_sensorial,mmse,ace_r_total,wais_total,profesion,estado_cognitivo,profesion_agrupada,nivel_educativo
+B,90.25,Femenino,Viudo/a,Diestro,Primario(8 años),Auditivo,0.0,74.0,29.0,Quehaceres domésticos,Deterioro Cognitivo Moderado/Severo,Ama de casa,Básico
+C,90.0,Femenino,Viudo/a,Diestro,Medios(9-12 años),Visual,0.0,86.0,23.0,Negocio de transporte,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Medio
+C,85.0,Femenino,Casado/a,Diestro,Básicos (6 años),Auditivo,5.0,69.0,21.0,Modista,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Básico
+B,81.0,Masculino,Viudo/a,Diestro,Superiores(+12 años),Auditivo,0.0,82.0,37.0,Jubilado,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Superior
+C,80.0,Femenino,Viudo/a,Diestro,Básicos (6 años),Auditivo,0.0,83.0,23.0,Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Básico
+C,79.0,Femenino,Viudo/a,Diestro,Básicos (6 años),Visual,0.0,62.0,40.0,Auxiliar en servicio de alimentación,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Básico
+C,78.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Ninguno,0.0,91.0,34.0,Auxiliar de enfermería,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Medio
+B,78.0,Femenino,Soltero/a,Diestro,Medios(9-12 años),Ninguno,2.0,85.0,43.0,Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Medio
+B,77.0,Masculino,Casado/a,Diestro,Básicos (6 años),Visual,0.0,80.0,23.0,Conductor,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Básico
+B,77.0,Femenino,Viudo/a,Diestro,Medios(9-12 años),Ninguno,0.0,90.0,33.0,Secretaria - Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Medio
+C,77.0,Masculino,Casado/a,Diestro,Superiores(+12 años),Auditivo,0.0,84.0,45.0,Imprenta,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Superior
+B,77.0,Femenino,Viudo/a,Diestro,Medios(9-12 años),Auditivo,0.0,86.0,45.0,Profesora de nivel primario,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Medio
+C,77.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Visual,0.0,97.0,42.0,Magisterio/Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Medio
+B,77.0,Femenino,Viudo/a,Diestro,Básicos (6 años),Visual,0.0,77.0,29.0,Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Básico
+C,76.0,Masculino,Casado/a,Diestro,Básicos (6 años),Auditivo,0.0,73.0,37.0,Agente/Jubilado,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Básico
+B,76.0,Masculino,Casado/a,Diestro,Medios(9-12 años),Visual,0.0,88.0,43.0,Empelado público,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Medio
+C,76.0,Femenino,Viudo/a,Diestro,Básicos (6 años),Visual,0.0,60.0,23.0,Costurera,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Básico
+B,75.0,Femenino,Viudo/a,Diestro,Superiores(+12 años),Auditivo,7.0,90.0,43.0,Economista,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Superior
+B,75.0,Femenino,Divorciado/a,Diestro,Medios(9-12 años),Visual,0.0,96.0,58.0,Ingeniera Comercial,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Medio
+B,75.0,Femenino,Viudo/a,Diestro,Medios(9-12 años),Visual,0.0,92.0,37.0,Docencia/Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Medio
+C,75.0,Femenino,Divorciado/a,Diestro,Superiores(+12 años),Ninguno,0.0,87.0,55.0,Jubilada- technologica neuropatia,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Superior
+C,75.0,Femenino,Viudo/a,Diestro,Primario(8 años),Auditivo,0.0,89.0,34.0,Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Básico
+B,75.0,Femenino,Divorciado/a,Diestro,Primario(8 años),Visual,4.0,69.0,38.0,Jubilida,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Básico
+B,74.0,Femenino,Divorciado/a,Diestro,Superiores(+12 años),Visual,0.0,88.0,55.0,Lcda en enfermería,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Superior
+B,74.0,Femenino,Viudo/a,Diestro,Superiores(+12 años),Ninguno,0.0,88.0,45.0,Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Superior
+C,74.0,Femenino,Soltero/a,Diestro,Primario(8 años),Visual,0.0,89.0,33.0,Costura/Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Básico
+C,74.0,Femenino,Viudo/a,Diestro,Medios(9-12 años),Visual,0.0,75.0,40.0,Jubilada/Asistente Dental,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Medio
+C,73.0,Femenino,Casado/a,Diestro,Superiores(+12 años),Ninguno,0.0,76.0,57.0,Contadora,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Superior
+C,73.0,Femenino,Divorciado/a,Diestro,Primario(8 años),Visual,0.0,91.0,38.0,Comerciante,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Básico
+B,72.0,Femenino,Viudo/a,Diestro,Primario(8 años),Visual,0.0,82.0,35.0,Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Básico
+B,72.0,Masculino,Divorciado/a,Zurdo,Superiores(+12 años),Visual,0.0,94.0,42.0,Profesor/Jubilado,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Superior
+B,72.0,Femenino,Soltero/a,Diestro,Primario(8 años),Ninguno,0.0,72.0,22.0,Arreglo planta,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Básico
+C,72.0,Femenino,Divorciado/a,Diestro,Básicos (6 años),Visual,0.0,85.0,32.0,Ama de casa,Deterioro Cognitivo Moderado/Severo,Ama de casa,Básico
+B,72.0,Masculino,Divorciado/a,Diestro,Básicos (6 años),Visual,0.0,90.0,50.0,Jubilada/Chef,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Básico
+C,72.0,Femenino,Divorciado/a,Diestro,Medios(9-12 años),Auditivo,0.0,82.0,36.0,Joyera,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Medio
+C,71.0,Femenino,Casado/a,Diestro,Básicos (6 años),Visual,0.0,92.0,44.0,Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Básico
+C,71.0,Masculino,Divorciado/a,Diestro,Superiores(+12 años),Visual,0.0,91.0,26.0,Docente Jubilado,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Superior
+B,71.0,Femenino,Viudo/a,Diestro,Básicos (6 años),Visual,0.0,81.0,35.0,Ama de casa,Deterioro Cognitivo Moderado/Severo,Ama de casa,Básico
+C,70.0,Femenino,Divorciado/a,Diestro,Medios(9-12 años),Ninguno,0.0,87.0,34.0,jubilada fabrica de tejido,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Medio
+B,70.0,Masculino,Casado/a,Diestro,Medios(9-12 años),Visual,0.0,88.0,28.0,Jubilado,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Medio
+B,69.0,Femenino,Viudo/a,Diestro,Primario(8 años),Visual,0.0,74.0,48.0,Ama de casa,Deterioro Cognitivo Moderado/Severo,Ama de casa,Básico
+C,69.0,Femenino,Soltero/a,Diestro,Medios(9-12 años),Auditivo,5.0,86.0,34.0,Profesora de Manualidades,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Medio
+B,68.0,Femenino,Divorciado/a,Diestro,Superiores(+12 años),Ninguno,0.0,88.0,33.0,jubilada-laboratorio de anoatomia solca,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Superior
+B,68.0,Femenino,Soltero/a,Diestro,Superiores(+12 años),Ninguno,0.0,96.0,60.0,Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Superior
+C,68.0,Femenino,Viudo/a,Diestro,Primario(8 años),Visual,5.0,86.0,30.0,Comerciante,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Básico
+C,67.0,Femenino,Casado/a,Diestro,Superiores(+12 años),Visual,0.0,89.0,36.0,Administrativo/Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Superior
+B,67.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Auditivo,0.0,88.0,29.0,Ama de casa,Deterioro Cognitivo Moderado/Severo,Ama de casa,Medio
+B,66.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Ninguno,0.0,90.0,44.0,Secretaría,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Medio
+B,66.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Visual,0.0,92.0,40.0,Ama de casa,Deterioro Cognitivo Moderado/Severo,Ama de casa,Medio
+C,66.0,Masculino,Casado/a,Diestro,Medios(9-12 años),Visual,0.0,84.0,41.0,APOYO ADMINISTRATIVO,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Medio
+C,66.0,Femenino,Divorciado/a,Diestro,Medios(9-12 años),Visual,5.0,87.0,29.0,Contadora,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Medio
+B,66.0,Femenino,Viudo/a,Diestro,Superiores(+12 años),Visual,0.0,94.0,39.0,Docente,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Superior
+C,66.0,Femenino,Casado/a,Diestro,Básicos (6 años),Visual,0.0,77.0,40.0,Costura,Deterioro Cognitivo Moderado/Severo,Profesiones varias,Básico
+C,66.0,Femenino,Casado/a,Diestro,Superiores(+12 años),Visual,0.0,90.0,55.0,Jubilida,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Superior
+B,65.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Visual,2.0,78.0,39.0,Jubilida,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Medio
+B,65.0,Masculino,Soltero/a,Diestro,Básicos (6 años),Visual,0.0,86.0,54.0,Jubilado,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Básico
+B,64.0,Femenino,Divorciado/a,Diestro,Superiores(+12 años),Visual,0.0,89.0,33.0,Docente jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Superior
+C,63.0,Femenino,Casado/a,Diestro,Medios(9-12 años),Auditivo,0.0,90.0,43.0,Jubilada / Ventas,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Medio
+B,63.0,Femenino,Divorciado/a,Diestro,Primario(8 años),Visual,0.0,86.0,50.0,Jubilida,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Básico
+C,63.0,Femenino,Divorciado/a,Diestro,Medios(9-12 años),Visual,0.0,94.0,55.0,Jubilada,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Medio
+C,63.0,Femenino,Viudo/a,Diestro,Medios(9-12 años),Visual,0.0,94.0,47.0,Ama de casa,Deterioro Cognitivo Moderado/Severo,Ama de casa,Medio
+C,62.0,Masculino,Divorciado/a,Diestro,Superiores(+12 años),Ninguno,0.0,96.0,32.0,Jubilado,Deterioro Cognitivo Moderado/Severo,Jubilado/a,Superior
+C,61.0,Femenino,Divorciado/a,Diestro,Medios(9-12 años),Ninguno,0.0,93.0,39.0,Ama de casa,Deterioro Cognitivo Moderado/Severo,Ama de casa,Medio
+B,,No especificado,No especificado,,,,0.0,0.0,0.0,No especificado,Deterioro Cognitivo Moderado/Severo,No especificado,Sin Datos
